@@ -1,1 +1,1 @@
-ssss
+print ("Hello, World!")

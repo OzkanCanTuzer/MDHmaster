@@ -2,15 +2,25 @@ TicketHelm
 
 FOR: Small businesses with limited IT support resources and limited financial resources.
 
-WHO: Need a simple way to report and creating a solutions for IT problems.
+WHO: Need a simple way to report IT problems and receive quick and creative solutions.
 
-THE: TicketHelm is a web-based IT helpdest ticket management system.
+THE: TicketHelm is a web-based IT helpdesk ticket management system.
 
-THAT: Helps employees submit technical issues and IT staff manage, prioritize, and resolve them efficiently.
+THAT: Helps employees report technical issues and enables IT support teams to manage, prioritize, and resolve them efficiently.
 
-UNLİKE: Established subscription-based helpdesk platforms such as Zendesk, Freshdesk, and Jira Service Management.
+UNLIKE: Established subscription-based helpdesk platforms such as Zendesk, Freshdesk, and Jira Service Management.
 
-OUR PRODUCT: TicketHelm aims to provide small businesses with a simple, accessible, and free-to-start IT ticket management platform, available 24/7 for submitting and tracking support requests.
+OUR PRODUCT: TicketHelm aims to provide small businesses with a simple, accessible, and affordable IT ticket management platform that helps them organize and track technical support requests efficiently.
+
+
+
+
+
+
+
+
+
+
 
 
 
