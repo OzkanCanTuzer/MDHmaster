@@ -12,6 +12,7 @@ UNLİKE: Established subscription-based helpdesk platforms such as Zendesk, Fres
 
 OUR PRODUCT: TicketHelm aims to provide small businesses with a simple, accessible, and free-to-start IT ticket management platform, available 24/7 for submitting and tracking support requests.
 
+Yeni yapılan değişiklik ile commit geçmişinde görüntüleme
 
 
 
